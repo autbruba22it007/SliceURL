@@ -3,7 +3,7 @@ import axios from 'axios';
 import { Copy, Link, Wand2, RefreshCw, ChevronRight, Check, Trash2, QrCode, X, Search, MessageCircle, BarChart3, Layers, Plus, History } from 'lucide-react';
 import { BarChart, Bar, XAxis, YAxis, Tooltip, ResponsiveContainer, Cell } from 'recharts';
 
-const API_BASE_URL = 'http://localhost:5000/api';
+const API_BASE_URL = import.meta.env.VITE_API_URL || 'http://localhost:5000/api';
 
 function App() {
   const [url, setUrl] = useState('');
