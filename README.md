@@ -1,4 +1,4 @@
-# SnapLink - Full-Stack URL Shortener
+# SLiceURL - Full-Stack URL Shortener
 
 Turn long, clunky URLs into short, shareable links. SnapLink supports custom aliases, bulk shortening, QR codes, click tracking and an analytics dashboard.
 
@@ -7,7 +7,7 @@ Turn long, clunky URLs into short, shareable links. SnapLink supports custom ali
 > The backend runs on a free hosting tier that sleeps when idle, so the first request after a break can take 30-60 seconds.
 
 <!-- Add a screenshot: save it as docs/screenshot.png and uncomment the line below -->
-[SnapLink screenshot](docs/slice-url-two.vercel.app_.png)
+[SliceURL screenshot](docs/slice-url-two.vercel.app_.png)
 
 ---
 
