@@ -7,7 +7,7 @@ Turn long, clunky URLs into short, shareable links. SnapLink supports custom ali
 > The backend runs on a free hosting tier that sleeps when idle, so the first request after a break can take 30-60 seconds.
 
 <!-- Add a screenshot: save it as docs/screenshot.png and uncomment the line below -->
-[SliceURL screenshot](docs/slice-url-two.vercel.app_.png)
+![SnapLink screenshot](docs/screenshot.png)
 
 ---
 
